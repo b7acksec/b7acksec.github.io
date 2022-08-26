@@ -1,4 +1,4 @@
 baseURL = 'http://blacksecc.github.io/' 
 languageCode = 'en-us'
-title = 'Blacksecc is Cybersecurity blog'
+title = 'Blacksec is Cybersecurity blog'
 theme = 'PaperMod'
