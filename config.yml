@@ -1,5 +1,5 @@
 baseURL: 'http://blacksecc.github.io/' 
-languageCode = 'ru-ru'
+languageCode: 'ru-ru'
 title: BlackSec is Cybersecurity Blog
 paginate: 5
 theme: PaperMod
