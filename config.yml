@@ -139,11 +139,6 @@ params:
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text 
-    appendFilePath: false # to append file path to Edit link
-
   # for search
   # https://fusejs.io/api/options.html
   fuseOpts:
@@ -154,17 +149,7 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-# menu:
-#   main:
-#     - identifier: categories
-#       name: categories
-#       url: /categories/
-#       weight: 10
-#     - identifier: tags
-#       name: tags
-#       url: /tags/
-#       weight: 20
-# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+
 pygmentsUseClasses: true
 markup:
   highlight:
