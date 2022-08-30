@@ -83,6 +83,10 @@ params:
   #   - name: github
   #     url: "https://github.com/"
 
+  regularMode:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
+
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
