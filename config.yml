@@ -19,32 +19,34 @@ languages:
         languageName: "English"
         weight: 1
         taxonomies:
+          archives: archives
           category: categories
           tag: tags
-          series: series
+          search: search
         menu:
             main:
                 - name: Archive
                   url: archives
-                  weight: 1
+                  weight: 11
                 - name: Сategories
                   url: categories/
-                  weight: 2
+                  weight: 12
                 - name: Tags
                   url: tags/
-                  weight: 3
+                  weight: 13
                 - name: Search
                   url: search/
-                  weight: 4
+                  weight: 14
 
     ru:
         languageName: "Russian"
         weight: 2
         title: BlackSec Блог по Кибербезопасности
         taxonomies:
-          category: RUcategories
-          tag: RUtags
-          series: RUseries
+          ruarchives: Архив
+          rucategory: Категории
+          rutag: Теги
+          rusearch: Поиск
         homeInfoParams:
             Title: Мое имя BlackSec
             Content: Я Офицер Кибербезопасности
@@ -58,17 +60,17 @@ languages:
         menu:
             main:
                 - name: Архив
-                  url: archives/
-                  weight: 1
+                  url: ruarchives/
+                  weight: 11
                 - name: Категории
-                  url: rucategories
-                  weight: 2  
+                  url: rucategories/
+                  weight: 12  
                 - name: Теги
-                  url: rutags
-                  weight: 3
+                  url: rutags/
+                  weight: 13
                 - name: Поиск
-                  url: search/
-                  weight: 4
+                  url: rusearch/
+                  weight: 14
                 
 
 params:
