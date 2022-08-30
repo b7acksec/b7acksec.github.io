@@ -25,7 +25,7 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
     responsiveImages: true
-    image: "https://ox-hugo.scripter.co/images/org-mode-unicorn-logo-200px.png" # image path/url
+    image: "https://www.calliaweb.co.uk/wp-content/uploads/2015/10/600x400.jpg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
