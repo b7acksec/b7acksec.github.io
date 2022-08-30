@@ -24,6 +24,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
+    responsiveImages: true
     image: "https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
