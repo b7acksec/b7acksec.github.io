@@ -26,16 +26,16 @@ languages:
             main:
                 - name: Archive
                   url: archives
-                  weight: 5
-                - name: categories
+                  weight: 1
+                - name: Сategories
                   url: categories/
-                  weight: 10
+                  weight: 2
                 - name: Tags
                   url: tags/
-                  weight: 10
+                  weight: 3
                 - name: Search
                   url: search/
-                  weight: 10
+                  weight: 4
 
     ru:
         languageName: "Russian"
@@ -57,18 +57,18 @@ languages:
 
         menu:
             main:
-                - name: Archive
+                - name: Архив
                   url: archives/
-                  weight: 5
-                - name: RUCategories
+                  weight: 1
+                - name: Категории
                   url: rucategories
-                  weight: 10  
-                - name: RUTags
+                  weight: 2  
+                - name: Теги
                   url: rutags
-                  weight: 10
-                - name: Search
+                  weight: 3
+                - name: Поиск
                   url: search/
-                  weight: 10
+                  weight: 4
                 
 
 params:
