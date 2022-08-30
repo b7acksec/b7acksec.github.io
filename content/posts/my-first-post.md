@@ -24,7 +24,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "https://www.gov.gs/NewsArchive/images/thumb/d/d8/1May10.jpg/350px-1May10.jpg" # image path/url
+    image: "https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
