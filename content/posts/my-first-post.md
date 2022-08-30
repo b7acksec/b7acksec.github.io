@@ -25,7 +25,7 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
     responsiveImages: true
-    image: "https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png" # image path/url
+    image: "https://ox-hugo.scripter.co/images/org-mode-unicorn-logo-200px.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
