@@ -83,7 +83,7 @@ params:
   #   - name: github
   #     url: "https://github.com/"
 
-  regularMode:
+  defaultMode:
     Title: Hi there wave
     Content: Can be Info, links, about...
 
