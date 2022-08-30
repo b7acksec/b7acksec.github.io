@@ -73,15 +73,15 @@ params:
   #       url: tags
 
   # home-info mode
-  # homeInfoParams:
-  #   Title: "Hello!"
-  #   Content: Welcome to my blog
+  homeInfoParams:
+    Title: My name is BlackSec.
+    Content: I'm Cybersecurity Officer.
 
-  # socialIcons:
-  #   - name: twitter
-  #     url: "https://twitter.com/"
-  #   - name: github
-  #     url: "https://github.com/"
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/"
+    - name: github
+      url: "https://github.com/"
 
   analytics:
     google:
