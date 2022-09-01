@@ -1,6 +1,6 @@
-baseURL: 'http://blacksecc.github.io/' 
+baseURL: 'http://b7acksec.github.io/' 
 title: BlackSec is Cybersecurity Blog
-paginate: 5
+paginate: 5s
 theme: PaperMod
 
 enableRobotsTXT: true
