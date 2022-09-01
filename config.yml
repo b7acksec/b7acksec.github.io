@@ -49,7 +49,9 @@ languages:
           rusearch: Поиск
         homeInfoParams:
             Title: Офицер по Кибербезопаснотси BlackSec.
-            Content: BlackSec офицер информационной безопасности из Средней Азии. Он знаком с ситуацией с кибербезопасностью в регионе. BlackSec проводит исследования в области разведки киберугроз, тестирования на проникновение, компьютерной криминалистики и разрабатывает программное обеспечение для кибербезопасности.
+            Content: > 
+                - BlackSec офицер информационной безопасности из Средней Азии. Он знаком с ситуацией с кибербезопасностью в регионе. 
+                - BlackSec проводит исследования в области разведки киберугроз, тестирования на проникновение, компьютерной криминалистики и разрабатывает программное обеспечение для кибербезопасности.
 
             socialIcons:
               - name: twitter
@@ -116,7 +118,9 @@ params:
   # home-info mode
   homeInfoParams:
     Title: Сybersecurity officer BlackSec.
-    Content: BlackSec information security officer from Central Asia. He is familiar with the Cybersecurity situation in the region. BlackSec conducts research in the fields of threat intelligence, penetration testing, forensics and develops cybersecurity software.
+    Content: >
+        - BlackSec information security officer from Central Asia. He is familiar with the Cybersecurity situation in the region. 
+        - BlackSec conducts research in the fields of threat intelligence, penetration testing, forensics and develops cybersecurity software.
 
   socialIcons:
     - name: twitter
