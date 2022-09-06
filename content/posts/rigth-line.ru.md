@@ -47,4 +47,4 @@ cover:
 <!-- ![img](https://i.ibb.co/Qc39BRw/Screenshot-2022-08-27-at-15-56-56.png)
 ![img](https://i.ibb.co/30GP2Zb/Screenshot-2022-08-24-at-11-07-54.png) -->
 
-{{ images src "https://i.ibb.co/Qc39BRw/Screenshot-2022-08-27-at-15-56-56.png" Resize "500x" }}
+{{ images https://i.ibb.co/Qc39BRw/Screenshot-2022-08-27-at-15-56-56.png Resize "500x" }}
