@@ -25,7 +25,7 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
     responsiveImages: true
-    image: "" # image path/url
+    image: "https://rtln.ru/static/media/company-logo.c2ae61b6.svg" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
