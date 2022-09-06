@@ -1,5 +1,5 @@
 ---
-title: "Хакеры взломали компанию Right Line"  
+title: "Hackers hacked the company Right Line
 date: 2022-08-25T23:21:38+06:00
 # draft: true
 tags: ["first"]
@@ -31,21 +31,21 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
-Хакеры взломали компанию **Right Line** — крупнейшего поставщика программного обеспечения в сфере онлайн-банкинга в России и СНГ. 
-Компания сотрудничает с несколькими десятками российских банков, а также различными крипто кошельками и участвует в проекте по разработке цифрового рубля. 
-Ответственность за взлом взяли хакеры из группировки **2402**, которые слили гигабайты данных: *резервные копии исходных кодов продуктов компании, внутреннюю документацию, облако компании со служебными документами и др информацию.*
+Hackers hacked **Right Line**, the largest online banking software provider in Russia and the CIS.
+The company cooperates with several dozen Russian banks, as well as various crypto wallets, and participates in a project to develop a digital ruble.
+Responsibility for the hack was taken by hackers from the **2402** group, who leaked gigabytes of data: *backup copies of the source codes of the company's products, internal documentation, the company's cloud with official documents, and other information.*
 
->Вся информация была выложена в открытый доступ.
+>All information was posted in the public domain.
 
-Компания **Right Line** является интегратором банковского ПО для таких банков как:
-*Тинькофф банк, Росгосстрах банк, Аверс банк, Агророс банк, Дом.рф банк казань, Металлинвест банк, МС банк рус, Ренессанс кредит, Сетелем банк, Сургутнефтегазбанк, Уралфинанс банк, Центринвест банк, Челиндбанк, Сдм-банк и д.р.*
+The **Right Line** company is an integrator of banking software for such banks as:
+*Tinkoff Bank, Rosgosstrakh Bank, Avers Bank, Agroros Bank, Dom.rf Bank Kazan, Metallinvest Bank, MS Bank Rus, Renaissance Credit, Setelem Bank, Surgutneftegazbank, Uralfinance Bank, Centerinvest Bank, Chelindbank, Sdm-Bank, etc.*
 
->Кроме того, данные банки имеют множественные дочерние организации в странах СНГ которые  также могут быть скомпрометированы. 
+>In addition, these banks have multiple subsidiaries in the CIS countries that can also be compromised.
 
-**BlackSec** связывает нашумевшую группировку Хактивистов **2402** с другой более известной группой **IT ARMY of Ukraine**
+**BlackSec** links infamous Hacktivist group **2402** with another more well-known group **IT ARMY of Ukraine**
 
-![it_army_of_ukraine](https://i.ibb.co/Qc39BRw/Screenshot-2022-08-27-at-15-56-56.png)
-![2402_message](https://i.ibb.co/30GP2Zb/Screenshot-2022-08-24-at-11-07-54.png)
+![img](https://i.ibb.co/Mg75VKP/imageedit-2-7111927910.png)
+![img](https://i.ibb.co/QXxzpLy/imageedit-3-9195053624.png)
 
 
 
