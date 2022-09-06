@@ -1,5 +1,5 @@
 ---
-title: "My First Post"  
+title: "Хакеры взломали компанию Right Line"  
 date: 2022-08-25T23:21:38+06:00
 # draft: true
 tags: ["first"]
@@ -25,11 +25,29 @@ ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
     responsiveImages: true
-    image: "https://www.calliaweb.co.uk/wp-content/uploads/2015/10/600x400.jpg" # image path/url
+    image: "" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 ---
-p What is Lorem Ipsum?
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Хакеры взломали компанию **Right Line** — крупнейшего поставщика программного обеспечения в сфере онлайн-банкинга в России и СНГ. 
+Компания сотрудничает с несколькими десятками российских банков, а также различными крипто кошельками и участвует в проекте по разработке цифрового рубля. 
+Ответственность за взлом взяли хакеры из группировки **2402**, которые слили гигабайты данных: *резервные копии исходных кодов продуктов компании, внутреннюю документацию, облако компании со служебными документами и др информацию.*
+
+**Вся информация была выложена в открытый доступ.**
+
+Компания **Right Line** является интегратором банковского ПО для таких банков как:
+*Тинькофф банк, Росгосстрах банк, Аверс банк, Агророс банк, Дом.рф банк казань, Металлинвест банк, МС банк рус, Ренессанс кредит, Сетелем банк, Сургутнефтегазбанк, Уралфинанс банк, Центринвест банк, Челиндбанк, Сдм-банк и д.р.*
+
+>Кроме того, данные банки имеют множественные дочерние организации в странах СНГ которые  также могут быть скомпрометированы. 
+
+**BlackSec** связывает нашумевшую группировку Хактивистов **2402** с другой более организованной группой **IT ARMY of Ukraine**
+
+![it_army_of_ukraine](https://i.ibb.co/Qc39BRw/Screenshot-2022-08-27-at-15-56-56.png)
+![2402_message](https://i.ibb.co/30GP2Zb/Screenshot-2022-08-24-at-11-07-54.png)
+
+
+
+
+
