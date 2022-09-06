@@ -44,7 +44,5 @@ cover:
 
 **BlackSec** связывает нашумевшую группировку Хактивистов **2402** с другой более известной группой **IT ARMY of Ukraine**
 
-<!-- ![img](https://i.ibb.co/Qc39BRw/Screenshot-2022-08-27-at-15-56-56.png)
-![img](https://i.ibb.co/30GP2Zb/Screenshot-2022-08-24-at-11-07-54.png) -->
-
-{{ images https://i.ibb.co/Qc39BRw/Screenshot-2022-08-27-at-15-56-56.png Resize "500x" }}
+![img|500x500](https://i.ibb.co/Qc39BRw/Screenshot-2022-08-27-at-15-56-56.png)
+![img|400x400](https://i.ibb.co/30GP2Zb/Screenshot-2022-08-24-at-11-07-54.png)
