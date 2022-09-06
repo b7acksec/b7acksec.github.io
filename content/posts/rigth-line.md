@@ -1,5 +1,5 @@
 ---
-title: "Hackers hacked the company Right Line
+title: "Hackers hacked the company Right Line"
 date: 2022-08-25T23:21:38+06:00
 # draft: true
 tags: ["first"]
