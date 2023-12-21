@@ -1,5 +1,5 @@
 baseURL: 'http://b7acksec.github.io/' 
-title: BlackSec is Cybersecurity Blog
+title: Software Development and Information Security
 paginate: 5
 theme: PaperMod
 
@@ -41,14 +41,14 @@ languages:
     ru:
         languageName: "Russian"
         weight: 2
-        title: BlackSec Блог по Кибербезопасности
+        title: Програмирование и Информационная Безопасность
         taxonomies:
           ruarchives: Архив
           rucategory: Категории
           rutag: Теги
           rusearch: Поиск
         homeInfoParams:
-            Title: Офицер Кибербезопасности BlackSec
+            Title: Програмирование и Информационная Безопасность
             Content: >
                 - b7acksec инженер-программист и специалист по информационной безопасности, который делает приложения более безопасными и стабильными, работает, поддерживает и развиввает демократизацию концепций безопасности.
 
@@ -76,12 +76,12 @@ languages:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: BlackSec is Cybersecurity Blog
-  description: "BlackSec is Cybersecurity Blog"
+  title: Software Development and Information Security
+  description: "Software Development and Information Security"
   keywords: [Blog, Cybersecurity, BlackSec, InfoSec, CeberSec]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["https://i.ibb.co/3pvSLTr/Component-4-1.png"]
+  images: ["https://i.ibb.co/9pfFPHk/Component-2.png"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -110,15 +110,15 @@ params:
     safari_pinned_tab:  "/safari-pinned-tab.svg"
 
   label:
-    text: "BlackSec"
+    text: "b7acksec"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # home-info mode
   homeInfoParams:
-    Title: Сybersecurity officer BlackSec
+    Title: Software Development and Information Security
     Content: >
-        - b7acksec is a software engineer and information security specialist. They focus on making applications more secure and stable, and actively contribute to democratizing security concepts by working and supporting in the field.
+        - b7acksec is a software engineer and information security specialist. They focus on making applications more secure and stable and actively contribute to democratizing security concepts by working and supporting in the field.
 
   socialIcons:
     - name: twitter
