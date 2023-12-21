@@ -1,1 +1,1 @@
-# BlackSec is Cybersecurity Blog.
+# Software Development and Information Security.
