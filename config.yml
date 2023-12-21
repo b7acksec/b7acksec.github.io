@@ -50,7 +50,7 @@ languages:
         homeInfoParams:
             Title: Офицер Кибербезопасности BlackSec
             Content: >
-                - BlackSec офицер информационной безопасности из Центральной Азии. Он знаком с ситуацией с кибербезопасностью в регионе. BlackSec проводит исследования в области разведки киберугроз, тестирования на проникновение, компьютерной криминалистики и разрабатывает программное обеспечение для кибербезопасности.
+                - b7acksec инженер-программист и специалист по информационной безопасности, который делает приложения более безопасными и стабильными, работает, поддерживает и развиввает демократизацию концепций безопасности.
 
             socialIcons:
               - name: twitter
@@ -118,7 +118,7 @@ params:
   homeInfoParams:
     Title: Сybersecurity officer BlackSec
     Content: >
-        - BlackSec information security officer from Central Asia. He is familiar with the Cybersecurity situation in the region. BlackSec conducts research in the fields of threat intelligence, penetration testing, forensics and develops cybersecurity software.
+        - b7acksec is a software engineer and information security specialist. They focus on making applications more secure and stable, and actively contribute to democratizing security concepts by working and supporting in the field.
 
   socialIcons:
     - name: twitter
